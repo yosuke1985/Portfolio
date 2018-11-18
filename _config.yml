@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 title: Slate theme
 description: Portfolio
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+=======
+theme: jekyll-theme-slate
+>>>>>>> d2bb69f35d3e8b6b0036dfc69a139e809aac6524
