@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-これは **bold**, _italic_, or ~~strikethrough~~.
+これはaaa **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
