@@ -1,0 +1,6 @@
+theme = "anybodyhome"
+languageCode = "en-us"
+title = "Yosuke's portfolio"
+baseurl = "https://yosuke1985.github.io/portfolio"
+canonifyurls = true
+publishDir = "docs"
